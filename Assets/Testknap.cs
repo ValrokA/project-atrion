@@ -12,31 +12,5 @@ public class Testknap : MonoBehaviour
     }
 }
 
-public class Testknap2 : MonoBehaviour
-{
-    public void Click()
-    {
-        SceneManager.LoadScene("Costum game");
-
-    }
-}
-
-public class Testknap3 : MonoBehaviour
-{
-    public void Click()
-    {
-        SceneManager.LoadScene("Options");
-
-    }
-}
-
-public class Testknap4 : MonoBehaviour
-{
-    public void Click()
-    {
-        SceneManager.LoadScene("Main Menu");
-
-    }
-}
 
 

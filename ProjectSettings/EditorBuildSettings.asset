@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Play game menu.unity
     guid: 924019cb38331f543af094d38839ea54
+  - enabled: 1
+    path: Assets/Costum game.unity
+    guid: db25c9d084fb12a4aba236515ad5a807
   m_configObjects: {}
