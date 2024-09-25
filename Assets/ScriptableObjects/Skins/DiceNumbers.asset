@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6359cdb52e22144fb1b7a8a2fda85fb, type: 3}
+  m_Name: DiceNumbers
+  m_EditorClassIdentifier: 
+  skins:
+  - {fileID: 21300000, guid: 151ae563af66f444ba96e550023d8b10, type: 3}
+  - {fileID: 21300000, guid: a3951d98149f2f143b02b774b5c11c52, type: 3}
+  - {fileID: 21300000, guid: fd40d6f58a53ecd47992ba56c92d752e, type: 3}
+  - {fileID: 21300000, guid: 2792b45254d1b51439e534ea8cdd463e, type: 3}
+  - {fileID: 21300000, guid: 4fe4b9beb5a8dc84bb31e662e15a93dd, type: 3}
+  - {fileID: 21300000, guid: ca70f18cf33447b4890c91fa710f27b2, type: 3}
